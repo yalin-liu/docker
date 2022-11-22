@@ -141,14 +141,13 @@ docker build -t "your-docker-id/oldnodejs" .
 ```
 docker images
 ```
-- Run your container
-```
-- Verify your container is running.
 
+- Run your container
+
+- Verify your container is running.
 ```
 docker ps -a
 ```
-
 ### (c) Testing your app that runs on the docker container
 
 - Open localhost:8099 in your Web broswer.
